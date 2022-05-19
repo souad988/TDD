@@ -1,6 +1,6 @@
-###TDD project
+### TDD project
 
-##Learning objectives
+## Learning objectives
 -Write unit tests using Rspec.  
 -Understand an existing codebase in a way that allows for adding tests.  
 -Write Rspec unit tests with mocks.  
